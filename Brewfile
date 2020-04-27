@@ -3,21 +3,20 @@ cask_args appdir: "/Applications"
 # Tools
 brew "git bash-completion"
 
-#Android
-cask "android-studio"
-
-# iOS/Swift
-brew "carthage"
-brew "swiftgen"
-brew "swiftlint"
-
 # Apps
-cask "alfred"
+cask "bettertouchtool"
+cask "db-browser-for-sqlite"
 cask "dropbox"
 cask "google-chrome"
-cask "postman"
-cask "sketch"
-cask "sourcetree"
-cask "spectacle"
+cask "itsycal"
+cask "mattermost"
+cask "omnifocus"
+cask "omnigraffle"
+cask "omnioutliner"
+cask "omniplan"
 cask "spotify"
-cask "visual-studio-code"
+cask "vlc"
+
+mas "GIF Brewery 3", id: 1081413713
+mas "Magnet", id: 441258766
+mas "SmileAllDay", id: 1180442868
